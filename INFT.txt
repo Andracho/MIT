@@ -1,0 +1,22 @@
+PROYECTO: Suite IT Professional
+VERSIÓN: 5.0.0-final
+AUTOR: Andrés Suárez (Andrachox)
+CONTACTO: andracho12@gmail.com
+FECHA: 2025-12-15
+TECNOLOGÍA: PowerShell 5.1 / 7 + Windows Forms
+LICENCIA: MIT License (Open Source)
+
+DESCRIPCIÓN TÉCNICA:
+Suite de herramientas administrativas para entornos Windows. Permite gestión centralizada de:
+- Redes (Diagnóstico, Configuración, WiFi)
+- Usuarios Locales
+- Servicios y Procesos
+- Seguridad y Firewall
+- Auditoría de Ciberseguridad (Nuevo en v5.0)
+- Mantenimiento de Sistema
+
+REQUISITOS:
+- Windows 10, 11 o Server 2016+
+- PowerShell 5.1 o superior
+- .NET Framework 4.5+ (Integrado en sistemas modernos)
+- Permisos de Administrador (Para funciones críticas)
