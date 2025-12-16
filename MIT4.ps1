@@ -7,7 +7,7 @@ param(
 # ============================================
 # Autor: Andrés Suárez (Andrachox)
 # País: Colombia
-# Contacto: andracho12@gmail.com
+# Contacto: xxxxxxxxxxxxxxxxx
 # Licencia: MIT License (Open Source)
 # Versión: 5.0.0-final
 # Fecha: 2025-12-15
