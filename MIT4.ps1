@@ -53,7 +53,7 @@ $script:AuthorInfo = @{
     Version    = "5.0.0-final"
     BuildDate  = Get-Date -Format "yyyy-MM-dd"
     Copyright  = "© 2025 Andrachox. Todos los derechos reservados."
-    GitHubRepo = "https://github.com/andracho12/SuiteIT"
+    GitHubRepo = "https://github.com/Andracho/MIT"
 }
 
 $script:Config = @{
@@ -148,8 +148,7 @@ function Show-Login {
     param($RequiredLevel)
     
     $validUsers = @{
-        "Soporte"       = "Soporte01"
-        "Andrachox"     = "Dante010803@*" 
+        "Soporte"       = "Soporte01" 
         "Administrador" = "Dante010803@*" 
         "Admin"         = "Dante010803@*"
     }
